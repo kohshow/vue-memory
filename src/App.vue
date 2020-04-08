@@ -97,6 +97,10 @@ export default {
     ScoreBoard,
   },
 
+  data() {
+    return initState();
+  },
+
   computed: {
     matchCount() {
       return this.theCards.filter(card => card.matched === true).length / 2;
