@@ -10,7 +10,7 @@
                 :data-matchkey="card.matchkey"
                 class="card_back"
             >
-                <img :src="require(`${card.imgUrl}`)" class="card_img">
+                <img :src="`${card.imgUrl}`" class="card_img">
             </div>
         </div>
     </div>
