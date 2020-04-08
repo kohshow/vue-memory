@@ -1,5 +1,9 @@
 # memory-game
 
+> A Vue.js project
+
+[https://kohshow.github.io/vue-memory/](https://kohshow.github.io/vue-memory/)
+
 ## Project setup
 ```
 yarn install
