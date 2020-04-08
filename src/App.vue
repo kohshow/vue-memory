@@ -55,7 +55,7 @@ animals.forEach(item => {
     matchKey: item,
     flipped: false,
     id: `${item}-a`,
-    imgUrl: `/images/animals/${item}.png`,
+    imgUrl: `images/animals/${item}.png`,
     matched: false,
   };
 
